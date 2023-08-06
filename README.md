@@ -1,1 +1,1 @@
-# PBL project
+# Hospital Bed Management System
